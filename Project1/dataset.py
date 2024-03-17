@@ -71,9 +71,9 @@ class SupervisedDataset(Dataset):
                 transforms.ToTensor(),
                 transforms.Lambda(lambda x: x.to(torch.float32)),
                 transforms.Lambda(lambda x: 2.0 * x - 1.0),
-                # transforms.RandomHorizontalFlip(),
-                # transforms.RandomRotation(45),
-                # transforms.RandomCrop(32, padding=4),
+                transforms.RandomHorizontalFlip(),
+                transforms.RandomRotation(45),
+                transforms.RandomCrop(32, padding=4),
             ]
         )
         self.test_transform = transforms.Compose(
