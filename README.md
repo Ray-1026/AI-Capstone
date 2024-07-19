@@ -16,7 +16,7 @@ Semester : 2024 Spring
 
 ## Final Project - Editable Video Colorization
 <p align="center">
-  <img src="https://github.com/Ray-1026/AI-Capstone/blob/main/Final%20Project/assets/movie.gif" alt="image" height=50%>
+  <img src="https://github.com/Ray-1026/AI-Capstone/blob/main/Final%20Project/assets/res.gif" alt="image">
 </p>
 
 ### Pipeline
