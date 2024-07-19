@@ -24,6 +24,11 @@ Semester : 2024 Spring
   <img src="https://github.com/Ray-1026/AI-Capstone/blob/main/Final%20Project/assets/pipeline.png" alt="image" width=70% height=70%>
 </p>
 
+### Editing example
+<p align="center">
+  <img src="https://github.com/Ray-1026/AI-Capstone/blob/main/Final%20Project/assets/edit.gif" alt="image">
+</p>
+
 ### Acknowledgments
 We reference the following repos and papers.
 - [CoDeF: Content Deformation Fields for Temporally Consistent Video Processing](https://github.com/qiuyu96/CoDeF)
